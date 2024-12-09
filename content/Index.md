@@ -7,4 +7,5 @@ Appunti di [[TPI]]:
 	[[MMU]]
 	[[Linking e binding]]
 	[[Partizioni]]
-	
+	[[Memoria virtuale]]
+	[[Paginazione e segmentazione]]
