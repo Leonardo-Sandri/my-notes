@@ -15,4 +15,4 @@ La segmentazione, al contrario, divide la memoria in unità di dimensioni variab
 - **Frammentazione esterna**: Poiché i segmenti possono avere dimensioni variabili, si può verificare uno spreco di spazio tra i segmenti, noto come frammentazione esternativa per gli sviluppatori poiché riflette la struttura logica del programma, facilitando la gestione delle strutture dati dinamiche.
 
 
-Per tornare alla home: [[content/index|index]]
+Per tornare alla home: [[content/index]]

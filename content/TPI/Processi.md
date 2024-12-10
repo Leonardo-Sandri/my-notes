@@ -8,4 +8,4 @@ Osservazioni:
 ● Non tutte le istruzione di un programma necessitano di essere caricate in memoria 
 
 
-Per tornare alla home: [[content/index|index]]
+Per tornare alla home: [[content/index]]

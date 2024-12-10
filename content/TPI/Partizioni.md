@@ -15,4 +15,4 @@ Le **partizioni variabili**, al contrario, permettono una maggiore flessibilità
 - **Gestione complessa**: La necessità di tenere traccia delle partizioni libere e allocarle dinamicamente rende la gestione più complessa rispetto alle partizioni fisse.
 
 
-Per tornare alla home: [[content/index|index]]
+Per tornare alla home: [[content/index]]

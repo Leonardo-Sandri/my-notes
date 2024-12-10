@@ -6,4 +6,4 @@
 	– durante l’esecuzione del programma (rilocazione dinamica)
 
 
-Per tornare alla home: [[content/index|index]]
+Per tornare alla home: [[content/index]]

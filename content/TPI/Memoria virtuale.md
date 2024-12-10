@@ -6,4 +6,4 @@ solo le parti del programma in uso e trattiene il resto su disco
 mandare in esecuzione programmi di qualunque dimensione
 
 
-Per tornare alla home: [[content/index|index]]
+Per tornare alla home: [[content/index]]

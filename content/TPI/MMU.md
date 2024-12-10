@@ -5,4 +5,4 @@ Formula generale:
 indirizzo fisico = indirizzo logico + indirizzo di rilocazione
 
 
-Per tornare alla home: [[content/index|index]]
+Per tornare alla home: [[content/index]]
