@@ -5,3 +5,5 @@ solo le parti del programma in uso e trattiene il resto su disco
 ● Caricando un pezzo di programma alla volta è possibile
 mandare in esecuzione programmi di qualunque dimensione
 
+
+Per tornare alla home: [[content/index|index]]

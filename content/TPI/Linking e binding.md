@@ -4,3 +4,6 @@
 	– durante la compilazione (indirizzamento assoluto)
 	– nel momento del loading del programma (rilocazione statica)
 	– durante l’esecuzione del programma (rilocazione dinamica)
+
+
+Per tornare alla home: [[content/index|index]]

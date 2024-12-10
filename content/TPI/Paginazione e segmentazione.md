@@ -12,4 +12,7 @@ La paginazione consiste nel suddividere sia la memoria fisica che quella logica 
 La segmentazione, al contrario, divide la memoria in unità di dimensioni variabili chiamate **segmenti**, ognuno dei quali rappresenta una parte logica del programma, come funzioni o strutture dati. Ogni segmento ha un nome e una dimensione specifica. **Caratteristiche principali:**
 
 - **Dimensione variabile**: I segmenti possono avere dimensioni diverse a seconda delle necessità del programma, consentendo un uso più efficiente della memoria.
-- **Frammentazione esterna**: Poiché i segmenti possono avere dimensioni variabili, si può verificare uno spreco di spazio tra i segmenti, noto come frammentazione esternativa per gli sviluppatori poiché riflette la struttura logica del programma, facilitando la gestione delle strutture dati dinamich
+- **Frammentazione esterna**: Poiché i segmenti possono avere dimensioni variabili, si può verificare uno spreco di spazio tra i segmenti, noto come frammentazione esternativa per gli sviluppatori poiché riflette la struttura logica del programma, facilitando la gestione delle strutture dati dinamiche.
+
+
+Per tornare alla home: [[content/index|index]]

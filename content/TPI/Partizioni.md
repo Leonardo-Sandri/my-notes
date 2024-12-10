@@ -13,3 +13,6 @@ Le **partizioni variabili**, al contrario, permettono una maggiore flessibilità
 
 - **Frammentazione esterna**: Questa si verifica quando ci sono spazi liberi nella memoria che non possono essere utilizzati perché sono troppo piccoli per soddisfare la richiesta di un nuovo processo, anche se la loro somma sarebbe sufficiente.
 - **Gestione complessa**: La necessità di tenere traccia delle partizioni libere e allocarle dinamicamente rende la gestione più complessa rispetto alle partizioni fisse.
+
+
+Per tornare alla home: [[content/index|index]]

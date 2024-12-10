@@ -3,3 +3,6 @@ Il valore contenuto nel registro di rilocazione (registro base) viene sommato a 
 
 Formula generale:
 indirizzo fisico = indirizzo logico + indirizzo di rilocazione
+
+
+Per tornare alla home: [[content/index|index]]
